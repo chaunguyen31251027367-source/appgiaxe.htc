@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 🏍️ MyOldMotorbike — Ứng dụng Định Giá Xe Máy Cũ TP.HCM
-Phiên bản nâng cấp — Dự án Machine Learning
 """
 
 import pandas as pd
